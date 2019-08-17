@@ -21,7 +21,7 @@
 
 ## Live Demo
 
-### https://dutraneto.com/react-crud/frontend/build
+### https://dutraneto.com/daily-verses/build
 
 #### The data is Fake
 ---
