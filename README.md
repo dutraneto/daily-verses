@@ -22,6 +22,4 @@
 ## Live Demo
 
 ### https://dutraneto.com/daily-verses/build
-
-#### The data is Fake
 ---
