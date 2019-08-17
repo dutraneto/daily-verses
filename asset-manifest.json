@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bible-verses/static/css/main.707f661c.chunk.css",
+    "main.js": "/bible-verses/static/js/main.33211d2e.chunk.js",
+    "main.js.map": "/bible-verses/static/js/main.33211d2e.chunk.js.map",
+    "runtime~main.js": "/bible-verses/static/js/runtime~main.55366f3d.js",
+    "runtime~main.js.map": "/bible-verses/static/js/runtime~main.55366f3d.js.map",
+    "static/css/2.266e55a5.chunk.css": "/bible-verses/static/css/2.266e55a5.chunk.css",
+    "static/js/2.cc884b6b.chunk.js": "/bible-verses/static/js/2.cc884b6b.chunk.js",
+    "static/js/2.cc884b6b.chunk.js.map": "/bible-verses/static/js/2.cc884b6b.chunk.js.map",
+    "index.html": "/bible-verses/index.html",
+    "precache-manifest.6a2101989733172646d89c4e9b48821e.js": "/bible-verses/precache-manifest.6a2101989733172646d89c4e9b48821e.js",
+    "service-worker.js": "/bible-verses/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/bible-verses/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.707f661c.chunk.css.map": "/bible-verses/static/css/main.707f661c.chunk.css.map"
+  }
+}
