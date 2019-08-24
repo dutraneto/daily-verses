@@ -1,6 +1,7 @@
 # Daily Bible Verses (... Developing)
 
-### This project is part of react studies and it is build using the modern JS concepts
+### This project is part of react studies and it is build using the modern JS concepts.
+#### It uses a https://developers.youversion.com/ API
 
 ---
 
@@ -17,9 +18,9 @@
 ---
 
 ## Screenshots
-![](build/static/media/daily-verses.gif)
+
 
 ## Live Demo
 
-### https://dutraneto.com/daily-verses/build
+### https://blooming-hamlet-66808.herokuapp.com/
 ---
